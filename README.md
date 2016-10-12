@@ -1,5 +1,4 @@
-# RoboticaUVic-PR-week3
-UVic Robotics Master. Pattern Recognition Homework 1 
+# Pattern Recognition Assignments 1: Linear Regression
 
 ## Instructions
 
