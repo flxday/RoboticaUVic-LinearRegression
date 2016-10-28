@@ -44,7 +44,7 @@ Learning Python is extraordinarily easy, especially if other
 programming languages are already known. There are some tutorials to
 get up to speed in a few minutes:
 - *Learn Python in 10 minutes* [tutorial](http://www.stavros.io/tutorials/python/) for beginners
-- A very concise and recommendable **Python+Numpy** [tutorial](https://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson
+- A very concise and recommendable **Python+Numpy** [tutorial](https://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson. Here the [ipython notebook version](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb)
 - Official Python 2 [tutorial](https://docs.python.org/2/tutorial/)
 - OpenCV-Python [tutorials](https://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_tutorials.html)
 
